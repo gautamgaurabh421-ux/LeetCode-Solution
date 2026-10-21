@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
