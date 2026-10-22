@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2235-add-two-integers) |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
