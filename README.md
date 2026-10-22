@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1108-defanging-an-ip-address](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
