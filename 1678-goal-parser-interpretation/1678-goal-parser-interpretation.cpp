@@ -1,20 +1,20 @@
 class Solution {
 public:
     string interpret(string command) {
-        string answer="";
+        string ans="";
         for(int i=0;i<command.size();i++){
             if(command[i]=='G'){
-                answer+="G";
+                ans+='G';
             }
-            else if(command[i]=='(' && command[i+1]== ')'){
-                answer+="o";
+            else if(command[i]=='('&& command[i+1]==')'){
+                ans+='o';
                 i++;
             }
-            else{
-                answer+="al";
+            else if(command[i]=='(' && command[i+1]=='a'){
+                ans+="al";
                 i+=3;
             }
         }
-        return answer;
+        return ans;
     }
 };
