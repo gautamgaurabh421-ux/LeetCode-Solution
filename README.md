@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -70,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
