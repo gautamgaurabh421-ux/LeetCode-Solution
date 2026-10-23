@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1768-merge-strings-alternately) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
