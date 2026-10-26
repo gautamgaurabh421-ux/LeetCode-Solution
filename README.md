@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2525-categorize-box-according-to-criteria) |
 ## Array
 |  |
 | ------- |
