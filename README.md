@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1952-three-divisors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
