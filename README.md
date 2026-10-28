@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1952-three-divisors) |
+## Sorting
+|  |
+| ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gautamgaurabh421-ux/LeetCode-Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
